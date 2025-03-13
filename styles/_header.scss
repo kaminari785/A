@@ -1,0 +1,16 @@
+$fontSize: 2em;
+
+header{
+    background-color: $thColor;
+    width: 100%;
+    padding: 1rem;
+
+    h1{
+        font-size: $fontSize;
+        margin-bottom: 10px;
+
+        i{
+            font-style: $fontSize;
+        }
+    }
+}
